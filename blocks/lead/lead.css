@@ -1,0 +1,33 @@
+.lead {
+    max-width: 984px;
+    max-height: 1005px;
+    margin-top: 0;
+    margin-left: 148px;
+    margin-right: 148px;
+}
+
+@media (max-width: 1024px) {
+    .lead {
+        max-width: 928px;
+        max-height: 962px;
+        margin-top: 0;
+        margin-left: 48px;
+        margin-right: 48px;
+    }
+}
+
+@media (max-width: 768px) {
+    .lead {
+        max-width: 768px;
+        max-height: 862px;
+        margin-top: 0;
+        margin-left: auto;
+        margin-right: auto;
+    }
+}
+
+@media (max-width: 320px) {
+    .lead {
+        max-width: 320px;
+    }
+}
