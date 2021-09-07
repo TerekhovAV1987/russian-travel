@@ -2,7 +2,6 @@
     margin-top: 92px;
     margin-left: 148px;
     max-width: 690px;
-    max-height: 429px;
 }
 
 @media (max-width: 1024px) {
@@ -23,6 +22,5 @@
     .intro {
         margin-top: 64px;
         max-width: 288px;
-        max-height: 754px;
     }
 }

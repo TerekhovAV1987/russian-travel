@@ -5,7 +5,6 @@
     margin-bottom: 0;
     padding-left: 0;
     max-width: 690px;
-    max-height: 90px;
     font-style: normal;
     font-weight: bold;
     font-size: 12px;
@@ -16,6 +15,5 @@
 @media (max-width: 320px) {
     .intro__list {
         max-width: 288px;
-        max-height: 90px;
     }
 }

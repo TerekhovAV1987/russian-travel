@@ -9,7 +9,6 @@
     text-align: center;
     color: white;
     max-width: 640px;
-    max-height: 72px;
 }
 
 @media (max-width: 1024px) {
@@ -23,7 +22,6 @@
         margin-top: 16px;
         margin-bottom: 40px;
         max-width: 288px;
-        max-height: 40px;
         font-size: 16px;
         line-height: 20px;
     }

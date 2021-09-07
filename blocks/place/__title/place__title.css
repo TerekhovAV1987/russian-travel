@@ -5,7 +5,11 @@
     line-height: 76px;
     color: white;
     max-width: 460px;
-    max-height: 152px;
+    margin-top: 0;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    align-self: flex-end;
 }
 
 @media (max-width: 768px) {
@@ -16,7 +20,6 @@
         line-height: 46px;
         color: white;
         max-width: 340px;
-        max-height: 92px;
     }
 }
 
