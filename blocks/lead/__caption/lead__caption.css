@@ -7,23 +7,16 @@
     letter-spacing: 1.5px;
     text-transform: uppercase;
     color: white;
-    max-width: 158px;
 }
 
 @media (max-width: 768px) {
     .lead__caption {
-        margin-top: 0;
         margin-left: 24px;
-        margin-bottom: 0;
-        max-width: 158px;
     }
 }
 
 @media (max-width: 320px) {
     .lead__caption {
-        margin-top: 0;
         margin-left: 16px;
-        margin-bottom: 0;
-        max-width: 158px;
     }
 }

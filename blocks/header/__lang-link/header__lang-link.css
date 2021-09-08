@@ -1,26 +1,24 @@
 .header__lang-link {
+    text-decoration: none;
     font-style: normal;
     font-size: 24px;
     line-height: 28px;
-    text-decoration: underline;
     color: white;
+    margin: 0;
 }
 
 .header__lang-link:last-child {
-    text-decoration: none;
-    right: 0;
     margin-left: 18px;
 }
+
+.header__lang-link:hover {
+    opacity: 0.8;
+}
+
 
 @media (max-width: 320px) {
     .header__lang-link {
         font-size: 18px;
-        top: 14px;
-        right: 40px;
-    }
 
-    .header__lang-link:last-child {
-        top: 14px;
-        right: 0;
     }
 }

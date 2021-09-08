@@ -6,11 +6,12 @@
     font-size: 18px;
     line-height: 22px;
     text-align: center;
-    color: white;
+    color: #FFFFFF;
     max-width: 360px;
-    position: relative;
     margin-top: 0;
     margin-bottom: 0;
+    text-decoration: none;
+    z-index: 1;
 }
 
 @media (max-width: 320px) {
