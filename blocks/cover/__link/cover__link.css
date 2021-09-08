@@ -41,6 +41,13 @@ min-height: 740px;
     }
 }
 
+@media (max-width: 425px) {
+    .cover__link{
+        max-width: 425px;
+        min-height: 266px;
+    }
+}
+
 @media (max-width: 320px) {
     .cover__link{
         max-width: 320px;

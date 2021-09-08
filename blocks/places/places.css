@@ -21,6 +21,14 @@
     }
 }
 
+@media (max-width: 425px) {
+    .places {
+        max-width: 425px;
+        margin-top: 64px;
+        margin-bottom: 66px;
+    }
+}
+
 @media (max-width: 320px) {
     .places {
         max-width: 320px;

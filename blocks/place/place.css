@@ -40,6 +40,21 @@
     }
 }
 
+@media (max-width: 425px) {
+    .place {
+        display: grid;
+        max-width: 425px;
+        grid-template-columns: auto;
+        grid-template-rows: max-content;
+        grid-row-gap: 32px;
+        margin-bottom: 50px;
+    }
+
+    .place:first-of-type .place__title {
+        max-width: 288px;
+    }
+}
+
 @media (max-width: 320px) {
     .place {
         display: grid;

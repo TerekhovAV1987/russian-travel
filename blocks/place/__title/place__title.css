@@ -22,6 +22,15 @@
 
 }
 
+@media (max-width: 425px) {
+    .place__title {
+        font-size: 32px;
+        line-height: 35px;
+        margin-top: 0;
+        margin-left: 16px;
+    }
+}
+
 @media (max-width: 320px) {
     .place__title {
         font-size: 32px;
