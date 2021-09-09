@@ -19,7 +19,7 @@
     }
 }
 
-@media (max-width: 320px) {
+@media (max-width: 767px) {
     .intro {
         margin-left: auto;
         margin-right: auto;
