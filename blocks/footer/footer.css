@@ -21,22 +21,11 @@
     }
 }
 
-@media (max-width: 425px) {
+@media (max-width: 767px) {
     .footer {
         flex-wrap: wrap;
         margin-left: 16px;
         margin-top: 64px;
-        padding-bottom: 24px;
-        flex-direction: column;
-    }
-}
-
-@media (max-width: 320px) {
-    .footer {
-        flex-wrap: wrap;
-        margin-left: 16px;
-        margin-top: 64px;
-        padding-bottom: 24px;
         flex-direction: column;
     }
 }

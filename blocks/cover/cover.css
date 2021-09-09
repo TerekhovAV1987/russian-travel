@@ -14,7 +14,6 @@
 
 @media (max-width: 1024px) {
     .cover {
-        margin-top: 92px;
         margin-left: 0;
         margin-right: 0;
         max-width: 1024px;
@@ -25,18 +24,14 @@
 @media (max-width: 768px) {
     .cover {
         margin-top: 90px;
-        margin-left: 0;
-        margin-right: 0;
         max-width: 768px;
         min-height: 480px;
     }
 }
 
-@media (max-width: 425px) {
+@media (max-width: 767px) {
     .cover {
         margin-top: 66px;
-        margin-left: 0;
-        margin-right: 0;
         max-width: 425px;
         min-height: 266px;
     }
@@ -44,9 +39,6 @@
 
 @media (max-width: 320px) {
     .cover {
-        margin-top: 66px;
-        margin-left: 0;
-        margin-right: 0;
         max-width: 320px;
         min-height: 200px;
     }

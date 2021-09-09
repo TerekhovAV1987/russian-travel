@@ -1,11 +1,11 @@
 .cover__link {
-align-items: center;
-justify-content: center;
-text-decoration: none;
-display: flex;
-flex-direction: column;
-max-width: 1184px;
-min-height: 740px;
+    align-items: center;
+    justify-content: center;
+    text-decoration: none;
+    display: flex;
+    flex-direction: column;
+    max-width: 1184px;
+    min-height: 740px;
 }
 
 
@@ -41,7 +41,7 @@ min-height: 740px;
     }
 }
 
-@media (max-width: 425px) {
+@media (max-width: 767px) {
     .cover__link{
         max-width: 425px;
         min-height: 266px;

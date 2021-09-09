@@ -10,16 +10,10 @@
     color: white;
 }
 
-@media (max-width: 425px) {
+@media (max-width: 767px) {
     .footer__copyright {
         margin-top: 48px;
         margin-bottom: 24px;
     }
 }
 
-@media (max-width: 320px) {
-    .footer__copyright {
-        margin-top: 48px;
-        margin-bottom: 24px;
-    }
-}
