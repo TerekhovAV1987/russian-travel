@@ -19,4 +19,4 @@
 
 **Ссылка на проект**
 
-* [Ссылка на проект](https://swimalext.github.io/russian-travel/)
+* [Ссылка на проект](https://terekhovav1987.github.io/russian-travel/)
