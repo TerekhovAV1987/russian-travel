@@ -1,0 +1,27 @@
+.lead__title_fi {
+    font-family: Inter, Tahoma, Verdana, sans-serif;
+    text-align: center;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 80px;
+    line-height: 96px;
+    color: white;
+    max-width: 720px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+@media (max-width: 767px) {
+    .lead__title_fi {
+        font-size: 36px;
+        line-height: 40px;
+    }
+}
+
+@media (max-width: 320px) {
+    .lead__title_fi {
+        max-width: 288px;
+    }
+}
